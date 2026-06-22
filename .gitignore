@@ -10,3 +10,11 @@ wheels/
 .venv
 
 .env
+
+# Generated DBs and checkpoints
+.chroma_db/
+.langgraph_api/
+
+# Lockfiles and local tooling
+uv.lock
+.python-version

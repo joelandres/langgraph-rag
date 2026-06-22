@@ -32,3 +32,10 @@ uv run uvicorn server:app --host 0.0.0.0 --port 8000 --reload
 ```bash
 uv run python test_api.py
 ```
+
+## API Documentation & Swagger
+### When the local server or the production server is running, you can access the interactive OpenAPI/Swagger documentation to inspect endpoints, request schemas, and response types.
+
+### Development API Docs: http://127.0.0.1:2024/docs
+
+### Production API Docs: http://127.0.0.1:8000/docs

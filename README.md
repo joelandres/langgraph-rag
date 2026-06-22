@@ -1,6 +1,6 @@
 # Agentic AI RAG Application
 
-An enterprise-grade Retrieval-Augmented Generation (RAG) system built using Python, LangGraph, and FastAPI.
+A Retrieval-Augmented Generation (RAG) system built using Python, LangGraph, and FastAPI.
 
 ---
 
